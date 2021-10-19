@@ -2,19 +2,19 @@
 .box2 {
   height: 650px;
   padding: 40px;
-  color:rgb(46, 179, 184);
+  color:rgb(9, 7, 138);
   background: rgb(241, 239, 239);
   font-size: 1.0rem;
 }
 .box3 {
   height: 200px;
   padding: 20px;
-  color:rgb(46, 179, 184);
+  color:rgb(9, 7, 138);
   background: rgb(241, 239, 239);
   font-size: 1.0rem;
 }
 .h2b {
-  color:rgb(46, 179, 184);
+  color:rgb(9, 7, 138);
   font-size: 1.5rem;
   padding-left: 20px;
   font-weight:bold;
@@ -29,7 +29,7 @@
 }
 .h2d {
   padding-top: 1rem;
-  color:rgb(46, 179, 184);
+  color:rgb(9, 7, 138);
   text-align: center!important;
   font-size: 1.0rem;
   font-weight:bold;
@@ -55,7 +55,7 @@
   font-size: 2.0rem;
   line-height: inherit;
   white-space: nowrap;
-  background: rgb(46, 179, 184);
+  background: rgb(9, 7, 138);
   color:#fff;
 }
 
@@ -74,7 +74,7 @@
   padding-top: .5rem;
   padding-bottom: 0.5rem;
   background-color: #fff;
-  border: 2px solid rgb(46, 179, 184);
+  border: 2px solid rgb(9, 7, 138);
   border-radius: .25rem;
   max-width: 45%;
 }
